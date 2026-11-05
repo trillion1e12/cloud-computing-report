@@ -1,3 +1,1 @@
-# LaTeX Assignment Template
-
-Source: Lost...
+# Cloud Computing (CO3141) mini-project report
